@@ -1,6 +1,7 @@
 # Wind Turbine Control Panel with Arduino UNO
 "Controllable Wind Turbine" with the project name of the system that monitors and controls the voltage, current and power of a non-industrial, individual (household) wind turbine and can rotate on a horizontal axis according to the wind direction.
 
+
 ## System Introduction
 - Potential Wind Energy will first be transferred to the shaft by the propellers and mechanical energy will be obtained. Later, this mechanical energy will be converted into electrical energy by stepper motor electromagnetic induction.
 - The turbine will rotate according to the wind direction.
