@@ -1,4 +1,4 @@
-# Wind Turbine Control for Arduino
+# Wind Turbine Control Panel with Arduino UNO
 "Controllable Wind Turbine" with the project name of the system that monitors and controls the voltage, current and power of a non-industrial, individual (household) wind turbine and can rotate on a horizontal axis according to the wind direction.
 
 ## System Introduction
